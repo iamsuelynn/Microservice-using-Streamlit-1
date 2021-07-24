@@ -1,0 +1,6 @@
+google-api-core
+google-cloud-bigquery
+pandas
+pandas-gbq
+gcsfs
+streamlit
