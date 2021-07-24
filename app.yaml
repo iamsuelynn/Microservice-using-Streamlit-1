@@ -1,0 +1,3 @@
+##Container information for configuration
+runtime: custom
+env: flex
